@@ -1,9 +1,7 @@
 # Site settings
 title: Scribes of the Cairo Geniza
 email: your-email@domain.com
-description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+description:
 
 baseurl: "/cairogeniza/" # the subpath of your site, e.g. /blog/
 cairgit_address: https://judaicadh.github.io
