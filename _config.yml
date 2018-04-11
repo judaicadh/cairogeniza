@@ -5,8 +5,8 @@ description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-cairgit_address: https://judaicadh.github.io/cairogeniza/
+baseurl: "/cairogeniza/" # the subpath of your site, e.g. /blog/
+cairgit_address: https://judaicadh.github.io
 
 
 # theme options from https://bootswatch.com/
