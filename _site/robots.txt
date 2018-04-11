@@ -1,1 +1,1 @@
-Sitemap: /cairogeniza/sitemap.xml
+Sitemap: /sitemap.xml
