@@ -4,24 +4,24 @@
     
     
     {
-      "title": "Welcome",
-      "url": "/cairogeniza//docs/home/"
+      "title": "",
+      "url": "/cairogeniza/"
 
     },
   
     
     
     {
-      "title": "Themes",
-      "url": "/cairogeniza//docs/themes/"
+      "title": "",
+      "url": "/cairogeniza/"
 
     },
   
     
     
     {
-      "title": "Customization",
-      "url": "/cairogeniza//docs/customization/"
+      "title": "",
+      "url": "/cairogeniza/"
 
     },
   
@@ -30,24 +30,24 @@
     
     
     {
-      "title": "Markdown Cheatsheet",
-      "url": "/cairogeniza//docs/cheatsheet/"
+      "title": "",
+      "url": "/cairogeniza/"
 
     },
   
     
     
     {
-      "title": "Font Awesome Icon List",
-      "url": "/cairogeniza//docs/font-awesome/"
+      "title": "",
+      "url": "/cairogeniza/"
 
     },
   
     
     
     {
-      "title": "Bootstrap Features",
-      "url": "/cairogeniza//docs/bootstrap/"
+      "title": "",
+      "url": "/cairogeniza/"
 
     },
   
@@ -56,12 +56,12 @@
   
   {
   "title": "Jekyll Doc Theme is published!",
-  "url": "/cairogeniza//blog/2017/05/03/jekyll-doc-theme/"
+  "url": "/cairogeniza//2017/05/03/jekyll-doc-theme.html"
   },
   
   {
   "title": "Welcome to Jekyll!",
-  "url": "/cairogeniza//blog/2017/02/01/welcome-to-jekyll/"
+  "url": "/cairogeniza//2017/02/01/welcome-to-jekyll.html"
   }
   
 ]
