@@ -3,7 +3,7 @@ title: Scribes of the Cairo Geniza
 email: judaicadh@gmail.com
 description:
 
-baseurl: "/cairogeniza/" # the subpath of your site, e.g. /blog/
+baseurl: /cairogeniza/  # the subpath of your site, e.g. /blog/
 url: https://judaicadh.github.io
 
 
