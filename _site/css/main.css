@@ -5152,11 +5152,14 @@ input[type="button"].btn-block {
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-position: 50% 0;
+
 }
 
 @media (min-width: 576px) {
   .jumbotron {
     padding: 4rem 2rem;
+    max-width: 100%;
+    height: auto;
   }
 }
 
