@@ -1,1 +1,1 @@
-Sitemap: /cairogeniza//sitemap.xml
+Sitemap: https://judaicadh.github.io/cairogeniza//sitemap.xml

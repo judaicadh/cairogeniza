@@ -4,7 +4,7 @@ email: judaicadh@gmail.com
 description:
 
 baseurl: "/cairogeniza/" # the subpath of your site, e.g. /blog/
-cairgit_address: https://judaicadh.github.io
+url: https://judaicadh.github.io
 
 
 # theme options from https://bootswatch.com/
