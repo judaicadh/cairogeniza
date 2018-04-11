@@ -5150,7 +5150,9 @@ input[type="button"].btn-block {
   background-color: #eee;
   border-radius: 0.3rem;
   background
-  background: url('/img/header-bg.jpg') no-repeat 50% 0;
+  background-image: url('../img/header-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 0;
 }
 
 @media (min-width: 576px) {
