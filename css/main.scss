@@ -3,7 +3,9 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-
+@import "~bootswatch/dist/{{site.bootwatch | downcase}}/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/{{site.bootwatch | downcase}}/bootswatch";
 
 @import
   {% if site.bootwatch %}
