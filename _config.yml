@@ -1,6 +1,6 @@
 # Site settings
 title: Scribes of the Cairo Geniza
-email: your-email@domain.com
+email: judaicadh@gmail.com
 description:
 
 baseurl: "/cairogeniza/" # the subpath of your site, e.g. /blog/
@@ -26,13 +26,13 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Europe/Berlin
+timezone: North America/Philadelphia
 defaults:
 - scope:
     path: _posts
     type: posts
   values:
-    layout: post
+    layout: page
     sectionid: blog
 
 - scope:
