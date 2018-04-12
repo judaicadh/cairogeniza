@@ -1,6 +1,8 @@
 ---
 layout: resources
 title: Resources
+tags: cairo geniza, cairo genizah, scribes of the cairo geniza, university of pennsylvania, judaica dh, judaicadh, judaica digital humanities
+description: Resources for the Scribes of the Cairo Geniza Project
 ---
 
 ### Geniza Image Resources
