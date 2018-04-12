@@ -1,27 +1,13 @@
-<!DOCTYPE html>
-<html>
-
-{% include head.html %}
-
-<body>
-<main>
-    {% include topnav.html %}
-
-    <div class="page-content">
-        <div class="wrapper">
+---
+layout: default
+---
+ 
 	        <div class="row">
           <div class="col-lg-12">
                <h1 id="typography">{{ page.title }}</h1>
-            </div>
+         <hr>
        
             {{ content }}
         </div>
-    </div>
-    </div>
-
-</main>
-    {% include footer.html %}
-    {% include js_files.html %}
-</body>
-
-</html>
+	        </div>
+ 
