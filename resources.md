@@ -18,11 +18,9 @@ title: Resources
  
   <details>
     <summary>Cairo Geniza Alphabet Chart</summary>
-    <p><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></p>
-    <p>A chart of different Hebrew script types found in the Geniza. Created by Laura Newman Eckstein with help from Dr. Judith Olszowy-Schlanger</p>
-    <p><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank"><img src="img/alephbets.png" alt="Alephbets" max-width="500px"></a></p>
+    <p><li><ul><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></ul>
+     <ul>A chart of different Hebrew script types found in the Geniza. Created by Laura Newman Eckstein with help from Dr. Judith Olszowy-Schlanger.</ul></p>
+    <p><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank"><img src="img/alephbets.png" alt="Alephbets" class="responsive"></a></p>
   </details>
- 
- 
-----
+
 ****
