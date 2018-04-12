@@ -22,8 +22,7 @@ title: Resources
     <p>A chart of different Hebrew script types found in the Geniza. Created by Laura Newman Eckstein with help from Dr. Judith Olszowy-Schlanger</p>
     <p><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank"><img src="img/alephbets.png" alt="Alephbets" max-width="500px"></a></p>
   </details>
-  </details>
-  
+ 
  
 ----
 ****
