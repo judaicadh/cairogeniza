@@ -27,8 +27,6 @@ exclude:
   - .gitignore
   - README.md
 timezone: North America/Philadelphia
-  social:
-  - title: twitter
 social:
 - title: twitter
   url: http://twitter.com/judaicadh
