@@ -5,7 +5,7 @@ title: Resources
 
 ### Geniza Image Resources
 
-- [Genizah Fragments at the Bodleain Libraries](https://genizah.bodleian.ox.ac.uk/)
+- [Genizah Fragments at the Bodleian Libraries](https://genizah.bodleian.ox.ac.uk/)
 - [Princeton Geniza Project](https://geniza.princeton.edu/pgp/index.php?a=image)
 - [The Friedberg Genizah Project](https://fjms.genizah.org/?lang=eng)
 - [The Rylands Cairo Genizah Collection at the University of Manchester Library](http://www.rylandsgenizah.org/)
