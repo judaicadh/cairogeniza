@@ -2,9 +2,6 @@
 layout: resources
 title: Resources
 ---
-### Geniza Paleography Resources 
-
-
 
 ### Geniza Image Resources
 
@@ -14,6 +11,13 @@ title: Resources
 - [The Rylands Cairo Genizah Collection at the University of Manchester Library](http://www.rylandsgenizah.org/)
 - [University of Cambridge Library Cairo Genizah Cairo Genizah Collection](https://cudl.lib.cam.ac.uk/collections/genizah)
 - [University of Pennsylvania Libraries Cairo Genizah Collection](http://openn.library.upenn.edu/html/genizah_contents.html)
+
+--- 
+
+### Geniza Paleography Resources
+
+- [Cairo Geniza Alphabet Chart](https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart) ![image-20180412145640400]()
+ 
 
 
 
