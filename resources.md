@@ -16,10 +16,8 @@ title: Resources
 
 ### Geniza Paleography Resources
 
-- [Cairo Geniza Alphabet Chart](https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart) ![image-20180412145640400]()
+- [Cairo Geniza Alphabet Chart](https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart) ![alephbetchart](img/alephbets.png)
  
-
-
-
+ 
 ----
 ****
