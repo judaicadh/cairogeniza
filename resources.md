@@ -15,9 +15,17 @@ title: Resources
 --- 
 
 ### Geniza Paleography Resources
-
-- [Cairo Geniza Alphabet Chart](https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart) ![alephbetchart](img/alephbets.png)
  
+  <details>
+    <summary>Cairo Geniza Alphabet Chart</summary>
+    <p>A chart of different Hebrew script types found in the Geniza by Laura Newman Eckstein with help from Dr. Judith Olszowy-Schlanger</p>
+  </details>
+
+  <details open="">
+    <summary><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></summary>
+    <p><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank"><img src="img/alephbets.png" alt="Alephbets" max></a></p>
+  </details>
+  
  
 ----
 ****
