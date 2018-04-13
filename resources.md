@@ -21,7 +21,7 @@ permalink: /resources/
  
 <details>
     <summary>Cairo Geniza Alphabet Chart</summary>
-<ul><li><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></li></ul>
+<p><ul><li><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></li></ul>
   <ul><li>A chart of different Hebrew script types found in the Geniza. Created by Laura Newman Eckstein with help from Dr. Judith Olszowy-Schlanger.</li></ul>
     <p><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank"><img src="../img/alephbets.png" alt="Alephbets" class="responsive"></a></p>
     </details>
@@ -32,7 +32,7 @@ permalink: /resources/
 
 <details>
     <summary>Scribes of the Seder Haggadah</summary>
-    <p><ul><li><a href="https://medium.com/@judaicadh/sederscribes-1866981146e6" target="_blank">Read the blog post introducing the Haggadah</a></li>
-     <li><a href="https://github.com/judaicadh/sederscribess" target="_blank">See the Geniza Fragment Sources for each section of the Haggadah</a></li></ul>
-    <p><iframe src="https://www.sefaria.org/sheets/105137?embed=1" width="600px" height="600px"></iframe></p>
-    </details>
+    <p><ul><li><a href="https://www.sefaria.org/sheets/105137">Explore the Haggadah</a></li>
+    <li><a href="https://medium.com/@judaicadh/sederscribes-1866981146e6" target="_blank">Read the blog post introducing the Haggadah</a></li>
+     <li><a href="https://github.com/judaicadh/sederscribess" target="_blank">Get the list of Geniza Fragment sources and images we used for each section of the Haggadah</a></li></ul>
+    
