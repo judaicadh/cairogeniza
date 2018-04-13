@@ -19,10 +19,10 @@ permalink: /resources/
 
 ### Geniza Paleography Resources
  
-  <details>
+<details>
     <summary>Cairo Geniza Alphabet Chart</summary>
-    <p><ul><li><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></li>
-     <li>A chart of different Hebrew script types found in the Geniza. Created by Laura Newman Eckstein with help from Dr. Judith Olszowy-Schlanger.</li></ul>
+<ul><li><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></li></ul>
+  <ul><li>A chart of different Hebrew script types found in the Geniza. Created by Laura Newman Eckstein with help from Dr. Judith Olszowy-Schlanger.</li></ul>
     <p><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank"><img src="../img/alephbets.png" alt="Alephbets" class="responsive"></a></p>
     </details>
 
@@ -35,3 +35,4 @@ permalink: /resources/
     <p><ul><li><a href="https://medium.com/@judaicadh/sederscribes-1866981146e6" target="_blank">Read the blog post introducing the Haggadah</a></li>
      <li><a href="https://github.com/judaicadh/sederscribess" target="_blank">See the Geniza Fragment Sources for each section of the Haggadah</a></li></ul>
     <p><iframe src="https://www.sefaria.org/sheets/105137?embed=1" width="600px" height="600px"></iframe></p>
+    </details>
