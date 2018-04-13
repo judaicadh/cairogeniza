@@ -8,12 +8,12 @@ permalink: /resources/
 
 ### Geniza Image Resources
 
-- [Genizah Fragments at the Bodleian Libraries](https://genizah.bodleian.ox.ac.uk/)
-- [Princeton Geniza Project](https://geniza.princeton.edu/pgp/index.php?a=image)
+- [Genizah Fragments at the Bodleian Libraries](https://genizah.bodleian.ox.ac.uk/){:target="_blank"}
+- [Princeton Geniza Project](https://geniza.princeton.edu/pgp/index.php?a=image){:target="_blank"}
 - [The Friedberg Genizah Project](https://fjms.genizah.org/?lang=eng)
-- [The Rylands Cairo Genizah Collection at the University of Manchester Library](http://www.rylandsgenizah.org/)
-- [University of Cambridge Library Cairo Genizah Cairo Genizah Collection](https://cudl.lib.cam.ac.uk/collections/genizah)
-- [University of Pennsylvania Libraries Cairo Genizah Collection](http://openn.library.upenn.edu/html/genizah_contents.html)
+- [The Rylands Cairo Genizah Collection at the University of Manchester Library](http://www.rylandsgenizah.org/){:target="_blank"}
+- [University of Cambridge Library Cairo Genizah Cairo Genizah Collection](https://cudl.lib.cam.ac.uk/collections/genizah){:target="_blank"}
+- [University of Pennsylvania Libraries Cairo Genizah Collection](http://openn.library.upenn.edu/html/genizah_contents.html){:target="_blank"}
 
 --- 
 
@@ -32,7 +32,7 @@ permalink: /resources/
 
 <details>
     <summary>Scribes of the Seder Haggadah</summary>
-    <p><ul><li><a href="https://www.sefaria.org/sheets/105137">Explore the Haggadah</a></li>
+    <ul><li><a href="https://www.sefaria.org/sheets/105137">Explore the Haggadah</a></li>
     <li><a href="https://medium.com/@judaicadh/sederscribes-1866981146e6" target="_blank">Read the blog post introducing the Haggadah</a></li>
      <li><a href="https://github.com/judaicadh/sederscribess" target="_blank">Get the list of Geniza Fragment sources and images we used for each section of the Haggadah</a></li></ul>
     
