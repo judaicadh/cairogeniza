@@ -5,11 +5,11 @@ tags: cairo geniza, cairo genizah, scribes of the cairo geniza, university of pe
 description: Press for the Scribes of the Cairo Geniza Project
 permalink: /press/
 ---
-##Academic Journals
+### Academic Journals
 
 Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo Geniza." <[**Manuscript Studies: a Journal of the Schoenberg Institute for Manuscript Studies**](https://muse.jhu.edu/article/693317/pdf)> 3, no. 1, (2018): 208-214.
 
-##Press
+### Press
 
 - Chizhik-Goldschmidt, Avital. "[This Amazing Project Invites The Public to Help Unlock Medieval Jewish Documents.](https://forward.com/life/faith/379696/this-amazing-project-invites-the-public-to-help-unlock-medieval-jewish-docu/)" Forward, 11 August 2017. Web.
 
