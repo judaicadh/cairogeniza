@@ -7,7 +7,7 @@ permalink: /press/
 ---
 ### Academic Journals
 
-Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo Geniza." <[**Manuscript Studies: a Journal of the Schoenberg Institute for Manuscript Studies**](https://muse.jhu.edu/article/693317/pdf)> 3, no. 1, (2018): 208-214.
+Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo Geniza." [**Manuscript Studies: a Journal of the Schoenberg Institute for Manuscript Studies**](https://muse.jhu.edu/article/693317/pdf) 3, no. 1, (2018): 208-214.
 
 ### Press
 
