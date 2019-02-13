@@ -29,7 +29,7 @@ Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo G
 
   *  Schnessel, Silvia. "[Egyptian Haggadh of the Eleventh Century Unearths Jewish Life in the Middle Ages](https://www.enlacejudio.com/2018/03/30/hagada-egipcia-siglo-xi-desentierra-vida-judia/)." enlacejudío, 30 March 2018. Web. (Published in Spanish)
 
-##University
+### University
 
 - Leavens, Sara. "[Penn Libraries Announces Crowd-Sourced Scholarship Endeavor, "Scribes of the Cairo Geniza"](https://penntoday.upenn.edu/news/penn-libraries-announces-crowd-sourced-scholarship-endeavor-scribes-cairo-geniza%C2%A0)." Penn Today, 11 August 2017. Web.
 
