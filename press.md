@@ -2,7 +2,7 @@
 layout: resources
 title: Press and Notices
 tags: cairo geniza, cairo genizah, scribes of the cairo geniza, university of pennsylvania, judaica dh, judaicadh, judaica digital humanities
-description: Press and Notices for the Scribes of the Cairo Geniza Project
+description: Press for the Scribes of the Cairo Geniza Project
 permalink: /press/
 ---
 ##Academic Journals
