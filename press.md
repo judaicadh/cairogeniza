@@ -19,7 +19,7 @@ Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo G
 
 - Yudelson, Larry. "[Raiders of the Lost Geniza Want You!](http://www.rylandsgenizah.org/)" Jewish Standard, 10 August 2017. Web.
 
-- Press related to Scribes of the Seder
+- *Press related to Scribes of the Seder*
 
   * Blumenthal, Itay. "[Arabic in Hebrew Letters: A 1,000-year-old Haggadah from Cairo](https://www.ynet.co.il/articles/0,7340,L-5203705,00.html)." Ynet, 28 March 2018. Web. (Published in Hebrew)
 
