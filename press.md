@@ -34,3 +34,5 @@ Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo G
 - Leavens, Sara. "[Penn Libraries Announces Crowd-Sourced Scholarship Endeavor, "Scribes of the Cairo Geniza"](https://penntoday.upenn.edu/news/penn-libraries-announces-crowd-sourced-scholarship-endeavor-scribes-cairo-geniza%C2%A0)." Penn Today, 11 August 2017. Web.
 
 - Shepard, Louisa. "[Reclaiming a fragmented history](https://penntoday.upenn.edu/news/reclaiming-fragmented-history)" Penn Today, 12 June 2018. Web.
+
+- Vilanova, Sara. "[Penn Libraries’ Innovative Digital Humanities Collaboration, “Scribes of the Cairo Geniza,” Enters a New Phase"](https://pennlibnews.wordpress.com/2019/03/04/penn-libraries-innovative-digital-humanities-collaboration-scribes-of-the-cairo-geniza-enters-a-new-phase/)." Penn Libraries News, 4 March 2019. Web.
