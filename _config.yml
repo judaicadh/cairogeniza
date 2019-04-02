@@ -1,7 +1,7 @@
 # Site settings
 title: Scribes of the Cairo Geniza
 email: judaicadh@gmail.com
-description:
+description: Scribes of the Cairo Geniza is an international collaboration led by the Penn Libraries in partnership with universities, libraries, and scholars to sort and transcribe thousands of medieval fragments. 
 
 baseurl: /cairogeniza  # the subpath of your site, e.g. /blog/
 url: https://judaicadh.github.io
