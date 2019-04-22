@@ -11,11 +11,13 @@ Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo G
 
 ### Press
 
+- Blickhan, Sam. "[Scribes of the Cairo Geniza team publishes blog series reviewing Sorting data.](https://daily.zooniverse.org/2019/03/28/scribes-of-the-cairo-geniza-team-publishes-blog-series-reviewing-sorting-data/)" Daily Zooniverse, 28 March 2019. Web.
+
 - Chizhik-Goldschmidt, Avital. "[This Amazing Project Invites The Public to Help Unlock Medieval Jewish Documents.](https://forward.com/life/faith/379696/this-amazing-project-invites-the-public-to-help-unlock-medieval-jewish-docu/)" Forward, 11 August 2017. Web.
 
 - Humanities for All. "[A Typology of the Publicly Engaged Humanities](https://humanitiesforall.org/features/five-types-of-publicly-engaged-humanities-work-in-u-s-higher-education/)." National Humanities Alliance, 2018. Web.   
 
-- Schechter, Dave. "[Opening Windows on Jewish Life Centuries Ago])https://atlantajewishtimes.timesofisrael.com/opening-windows-on-jewish-life-centuries-ago1/)." Atlanta Jewish Times, 5 October 2018. Web.
+- Schechter, Dave. "[Opening Windows on Jewish Life Centuries Ago](https://atlantajewishtimes.timesofisrael.com/opening-windows-on-jewish-life-centuries-ago1/)." Atlanta Jewish Times, 5 October 2018. Web.
 
 - Yudelson, Larry. "[Raiders of the Lost Geniza Want You!](http://www.rylandsgenizah.org/)" Jewish Standard, 10 August 2017. Web.
 
