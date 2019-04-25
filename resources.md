@@ -14,6 +14,12 @@ permalink: /resources/
      <li><a href="https://judaicadh.github.io/cairogeniza/img/Scribes-of-the-Cairo-Geniza-Organizing-Toolkit.zip" target="_blank">Click here to download the Scribes of the Cairo Geniza Organizing Toolkit</a> (last updated April 2019)</li>
      </ul>
 </details>
+<details>
+<summary>Scribes of the Cairo Geniza Syllabus & Lesson Plan</summary>
+<ul>
+<li>Coming Soon!</li>
+</ul>
+</details>
 ---
 
 ### Geniza Image Resources
