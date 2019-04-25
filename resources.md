@@ -6,16 +6,6 @@ description: Resources for the Scribes of the Cairo Geniza Project
 permalink: /resources/
 ---
 
-### Organizing a Scribes of the Cairo Geniza Event
-
-Are you interested in hosting an event around the Scribes of the Cairo Geniza Project? Host a group of #GenizaScribes using our self-contained Organizing Toolkit. In addition to a quick guide, this toolkit includes printable instruction, a sample press announcement, and images for promotional use. The most recent version of this guide is available on [Google Drive](https://drive.google.com/open?id=1W4nxgG_UlFX9lwaajfQTMzkPEFI_kHNV).
-
-[Scribes of the Cairo Geniza Organizing Toolkit](./img/Scribes-of-the-Cairo-Geniza-Organizing-Toolkit.zip) (last updated April 2019)
-
-Please contact judaicadh@gmail.com if you have questions or suggestions on this guide.
-
----
-
 ### Geniza Image Resources
 
 - [Genizah Fragments at the Bodleian Libraries](https://genizah.bodleian.ox.ac.uk/){:target="_blank"}
@@ -25,7 +15,6 @@ Please contact judaicadh@gmail.com if you have questions or suggestions on this 
 - [University of Cambridge Library Cairo Genizah Cairo Genizah Collection](https://cudl.lib.cam.ac.uk/collections/genizah){:target="_blank"}
 - [University of Pennsylvania Libraries Cairo Genizah Collection](http://openn.library.upenn.edu/html/genizah_contents.html){:target="_blank"}
 - [Columbia University Libraries Hebraica and Judaica](https://library.columbia.edu/locations/rbml/units/Hebraica.html){:target="_blank"}
-- why?
 
 
 ---
@@ -48,3 +37,14 @@ Please contact judaicadh@gmail.com if you have questions or suggestions on this 
     <ul><li><a href="https://www.sefaria.org/sheets/105137">Explore the Haggadah</a></li>
     <li><a href="https://medium.com/@judaicadh/sederscribes-1866981146e6" target="_blank">Read the blog post introducing the Haggadah</a></li>
      <li><a href="https://github.com/judaicadh/sederscribess" target="_blank">Get the list of Geniza Fragment sources and images we used for each section of the Haggadah</a></li></ul>
+
+
+<details>
+<summary>Scribes of the Cairo Geniza Organizing Toolkit</summary>
+     <ul>
+      <li>Are you interested in hosting an event around the Scribes of the Cairo Geniza project? Host a group of #GenizaScribes using our self-contained Organizing Toolkit. In addition to a quick guide, this toolkit includes printable instruction, a sample press announcement, and images for promotional use. The most recent version of this guide is available on [Google Drive](https://drive.google.com/open?id=1W4nxgG_UlFX9lwaajfQTMzkPEFI_kHNV).</li>
+     <li>[Scribes of the Cairo Geniza Organizing Toolkit](./img/Scribes-of-the-Cairo-Geniza-Organizing-Toolkit.zip) (last updated April 2019)</li>
+     </ul>
+</details>
+
+     Please contact judaicadh@gmail.com if you have questions or suggestions on this guide.
