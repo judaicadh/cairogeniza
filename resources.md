@@ -14,11 +14,13 @@ permalink: /resources/
 - [The Rylands Cairo Genizah Collection at the University of Manchester Library](http://www.rylandsgenizah.org/){:target="_blank"}
 - [University of Cambridge Library Cairo Genizah Cairo Genizah Collection](https://cudl.lib.cam.ac.uk/collections/genizah){:target="_blank"}
 - [University of Pennsylvania Libraries Cairo Genizah Collection](http://openn.library.upenn.edu/html/genizah_contents.html){:target="_blank"}
+- [Columbia University Libraries Hebraica and Judaica](https://library.columbia.edu/locations/rbml/units/Hebraica.html){:target="_blank"}
 
---- 
+
+---
 
 ### Geniza Paleography Resources
- 
+
 <details>
     <summary>Cairo Geniza Alephbet Chart</summary>
 <ul><li><a href="https://github.com/judaicadh/cairogeniza/tree/master/_docs/Eckstein%20Alephbet%20Chart" target="_blank">Click here to download the chart.</a></li>
@@ -35,4 +37,3 @@ permalink: /resources/
     <ul><li><a href="https://www.sefaria.org/sheets/105137">Explore the Haggadah</a></li>
     <li><a href="https://medium.com/@judaicadh/sederscribes-1866981146e6" target="_blank">Read the blog post introducing the Haggadah</a></li>
      <li><a href="https://github.com/judaicadh/sederscribess" target="_blank">Get the list of Geniza Fragment sources and images we used for each section of the Haggadah</a></li></ul>
-    
