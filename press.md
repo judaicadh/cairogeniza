@@ -5,7 +5,7 @@ tags: cairo geniza, cairo genizah, scribes of the cairo geniza, university of pe
 description: Press for the Scribes of the Cairo Geniza Project
 permalink: /press/
 ---
-### Academic Journals
+### Academic Publications
 
 Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo Geniza." [**Manuscript Studies: a Journal of the Schoenberg Institute for Manuscript Studies**](https://muse.jhu.edu/article/693317/pdf) 3, no. 1, (2018): 208-214.
 
@@ -34,6 +34,8 @@ Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo G
 ### University
 
 - Leavens, Sara. "[Penn Libraries Announces Crowd-Sourced Scholarship Endeavor, "Scribes of the Cairo Geniza"](https://penntoday.upenn.edu/news/penn-libraries-announces-crowd-sourced-scholarship-endeavor-scribes-cairo-geniza%C2%A0)." Penn Today, 11 August 2017. Web.
+
+- Moeller, Eric. "[The Cairo GEniza: Studying the ancients in the digital age.](http://www.dailyuw.com/news/article_821d2100-7b65-11e9-a397-57e72ae496c2.html)" The Daily of the University of Washington, 21 May 2019. Web. 
 
 - Shepard, Louisa. "[Reclaiming a fragmented history](https://penntoday.upenn.edu/news/reclaiming-fragmented-history)" Penn Today, 12 June 2018. Web.
 
