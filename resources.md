@@ -18,7 +18,7 @@ permalink: /resources/
 <summary>Scribes of the Cairo Geniza Syllabus & Lesson Plan</summary>
 <ul>
 <li>Coming Soon!</li>
-<li>[The Cairo Geniza | PBS LearningMedia](https://www.pbslearningmedia.org/resource/sotj14.socst.world.cairogenizah/the-cairo-genizah/){:target="_blank"</li> from WNET New York Public Media, designed for Grades 9-12
+<li><a href="https://www.pbslearningmedia.org/resource/sotj14.socst.world.cairogenizah/the-cairo-genizah/" target="_blank">The Cairo Geniza | PBS LearningMedia</a> from WNET New York Public Media, designed for Grades 9-12</li>
 </ul>
 </details>
 ---
