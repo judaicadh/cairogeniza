@@ -11,6 +11,10 @@ Eckstein, Laura Newman. "Of Scribes and Scripts: Citizen Science and the Cairo G
 
 ### Press
 
+- Alperin, Michele. "[Do it yourself](https://njjewishnews.timesofisrael.com/do-it-yourself/)" New Jersey Jewish News, 27 November 2019. Web.
+
+- Alperin, Michele. "[Pitching in to unlock mysteries of Cairo Geniza](https://njjewishnews.timesofisrael.com/pitching-in-to-unlock-mysteries-of-cairo-geniza/)" New Jersey Jewish News, 27 November 2019. Web.
+
 - Blickhan, Sam. "[Scribes of the Cairo Geniza team publishes blog series reviewing Sorting data.](https://daily.zooniverse.org/2019/03/28/scribes-of-the-cairo-geniza-team-publishes-blog-series-reviewing-sorting-data/)" Daily Zooniverse, 28 March 2019. Web.
 
 - Chizhik-Goldschmidt, Avital. "[This Amazing Project Invites The Public to Help Unlock Medieval Jewish Documents.](https://forward.com/life/faith/379696/this-amazing-project-invites-the-public-to-help-unlock-medieval-jewish-docu/)" Forward, 11 August 2017. Web.
